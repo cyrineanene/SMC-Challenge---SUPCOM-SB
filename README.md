@@ -37,8 +37,9 @@ We also encoded the categorical with the label encoder and the yes and no questi
 ### Used model for analysis:
 As for the models used for analysis, we used correlation matrix, MI scores and PCA.
 - Correlation matrix:
-  
-  ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56f09131-a4c0-46f8-86ff-a08f7eb69e88)
+Our main target is students’ academic results, the next heatmap shows a highly correlation of some features with student’s academic results compared to other features.
+
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56f09131-a4c0-46f8-86ff-a08f7eb69e88)
 
 - MI scores:
 
