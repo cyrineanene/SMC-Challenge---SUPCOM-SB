@@ -34,3 +34,11 @@ Additionally, we created another column, ‘interaction_term’, born from the a
 We also encoded the categorical with the label encoder and the yes and no questions with the mapping function.
 
 ## Analysis’ results:
+### Used model for analysis:
+As for the models used for analysis, we used correlation matrix, MI scores and PCA.
+- Correlation matrix:
+  ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56f09131-a4c0-46f8-86ff-a08f7eb69e88)
+
+- MI scores:
+
+- PCA:
