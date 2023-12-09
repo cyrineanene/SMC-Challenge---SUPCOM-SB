@@ -25,3 +25,12 @@ In the initial phase of data cleaning, two columns containing Null values were i
 Subsequently, attention turned to verifying the accuracy and consistency of input data, revealing an inconsistency in responses to linked binary questions. Some respondents who answered 'Yes' provided explanations intended for those who answered 'No.' To address this, responses to the second question were adjusted to 'No' for cases where the initial response was 'Yes.'
 
 Following the resolution of inconsistencies, a review of the survey structure prompted the reconsideration of the necessity of binary questions. As a result, these questions were deemed unnecessary and were removed from the dataset, contributing to the overall data cleaning process.
+
+### Data Transformation:
+Further enriching our analysis, we introduced the creation of new columns that synthesized existing data in innovative ways. Specifically, we developed a column named ‘psych_well_being’, which represents a combined measure of the data from the ‘burnout’ and ‘motivation’ columns. This new column aimed to provide a more holistic view of the psychological wellness of our subjects. 
+
+Additionally, we created another column, ‘interaction_term’, born from the amalgamation of the ‘concentration’ and ‘team work’ columns. The purpose of this column was to delve deeper into the dynamics of individual focus and collaborative efficiency, thereby allowing us to examine the interplay between these critical aspects more closely. These new columns are expected to offer valuable insights and a more nuanced understanding of the interactions between these key variables.
+
+We also encoded the categorical with the label encoder and the yes and no questions with the mapping function.
+
+## Analysis’ results:
