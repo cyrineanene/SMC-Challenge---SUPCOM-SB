@@ -42,5 +42,14 @@ Our main target is students’ academic results, the next heatmap shows a highly
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56f09131-a4c0-46f8-86ff-a08f7eb69e88)
 
 - MI scores:
+From the chart, we can observe that certain factors have a higher Mutual Information score, suggesting they are more strongly associated with the outcome variable.
+
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/65907217-6496-43ab-903e-815c5f46a678)
+
 
 - PCA:
+It suggests that selecting the first three principal components may be sufficient to capture most of the variance in the data while reducing the dimensionality. 
+
+
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/2ebcbc4a-b592-4ee7-897d-5ba303602aa2)
+
