@@ -1,7 +1,7 @@
 # SMC-Challenge---SUPCOM-SB
 Unraveling the complex connections between students' social relationships, physical and mental health, and emotional resilience, through data analysis.
 
-## Methodology:
+## Methodology
 ### Data Collection:
 Thе data collеction procеss bеgan by utilizing Googlе Forms, whеrе participants were asked to rеspond to a sеriеs of quеstionnairе statеmеnts еncompassing thrее kеy catеgoriеs: Physical and mеntal hеalth, Studеnts' Social rеlationships, and Emotional Rеsiliеncе.
 
@@ -33,7 +33,7 @@ Additionally, we created another column, ‘interaction_term’, born from the a
 
 We also encoded the categorical with the label encoder and the yes and no questions with the mapping function.
 
-## Analysis’ results:
+## Analysis’ results
 ### Used model for analysis:
 As for the models used for analysis, we used correlation matrix, MI scores and PCA.
 - Correlation matrix:
@@ -81,6 +81,10 @@ As we progress with our analysis, we have dedicated further efforts to untangle 
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5f375065-a07a-467f-a84e-422a80ce86d5)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/4ce47a3e-d70e-465b-836f-fbef1bcf4fd7)
 
+## Conclusion
+In conclusion, our data analysis provides insights into various aspects of student well-being, encompassing social, health, and emotional resilience. The study emphasizes the intricate interplay among these dimensions and their influence on the academic facets of students' lives.
+
+Through analytical techniques, we've identified key patterns instrumental in understanding factors contributing to or hindering student resilience. These insights pave the way for targeted interventions to enhance students' ability to thrive amidst academic challenges. The study underscores the role of a supportive social environment, the impact of physical health on cognitive and emotional well-being, and the necessity of robust emotional support systems in educational settings. Additionally, it acknowledges the contribution of a healthy upbringing and domestic environment to a student's overall well-being. A nurturing home environment significantly influences a student's ability to cope with challenges, form positive relationships, and achieve academic success.
 
 
 
