@@ -53,3 +53,34 @@ It suggests that selecting the first three principal components may be sufficien
 
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/2ebcbc4a-b592-4ee7-897d-5ba303602aa2)
 
+### Insights:
+Our exploration of the data has yielded intriguing insights that illuminate the key factors impacting the phenomenon under investigation. Through careful analysis, we have uncovered intricate patterns and relationships within the data, revealing previously unknown connections and nuances. Here are the insights: 
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/734d6f80-22dd-4b72-b2cb-8e66a5566159)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/e4c6c7d7-66ac-454a-bdc0-b5034ef87b46)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/2e98270a-cfd3-4868-933c-8c03f1555e6d)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/9c5f688b-f576-4c4e-b2e2-df6a584551c8)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/22f09393-96c0-4c4b-ad09-15a38c33f67a)
+
+As we progress with our analysis, we have dedicated further efforts to untangle the intricate interactions among the features. The next studies will focus on 4 main features:
+- Burnout
+- Concentration problems
+- Motivation
+- Collaboration work
+
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5f146ed7-9eef-41be-93fc-8166376861f8)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/2b1db2b2-4a91-444f-ac3a-dc9edbc16417)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/45e03f74-7d1e-4404-99ba-f02e9567fa4d)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/f47ed7ee-c6f1-4c6d-8b00-20bb6dc532ea)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/03d1268e-1f4b-4b95-a43e-0403df66bf5e)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/eb582bf8-b34f-4a0f-8c8a-3b227ae8246d)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/d9cf181f-75d2-4f3d-ae71-19c4d7071be2)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5d44a04b-4f4e-4eab-be64-6f61d191a59f)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56115d40-749f-42e9-9b98-92401f53b63c)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5f375065-a07a-467f-a84e-422a80ce86d5)
+![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/4ce47a3e-d70e-465b-836f-fbef1bcf4fd7)
+
+
+
+
+
+
