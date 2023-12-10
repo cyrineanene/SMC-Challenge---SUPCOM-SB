@@ -55,6 +55,8 @@ It suggests that selecting the first three principal components may be sufficien
 
 ### Insights:
 Our exploration of the data has yielded intriguing insights that illuminate the key factors impacting the phenomenon under investigation. Through careful analysis, we have uncovered intricate patterns and relationships within the data, revealing previously unknown connections and nuances. Here are the insights: 
+
+
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/734d6f80-22dd-4b72-b2cb-8e66a5566159)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/e4c6c7d7-66ac-454a-bdc0-b5034ef87b46)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/2e98270a-cfd3-4868-933c-8c03f1555e6d)
