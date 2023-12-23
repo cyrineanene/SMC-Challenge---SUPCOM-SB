@@ -78,6 +78,10 @@ As we progress with our analysis, we have dedicated further efforts to untangle 
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/d9cf181f-75d2-4f3d-ae71-19c4d7071be2)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5d44a04b-4f4e-4eab-be64-6f61d191a59f)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/56115d40-749f-42e9-9b98-92401f53b63c)
+
+### Feature Engineering
+Combining the mental health features in a unique one 'pysch_well_being' and the social relationships features into 'interaction_term'.
+
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/5f375065-a07a-467f-a84e-422a80ce86d5)
 ![image](https://github.com/cyrineanene/SMC-Challenge---SUPCOM-SB/assets/123120441/4ce47a3e-d70e-465b-836f-fbef1bcf4fd7)
 
